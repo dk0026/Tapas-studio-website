@@ -1,2 +1,2 @@
-# tapas
-A Website of Studio using Bootstrap.
+# Tapas studio website
+A Website of Studio using HTML,CSS & Bootstrap.
